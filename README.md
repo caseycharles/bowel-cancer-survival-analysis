@@ -9,7 +9,10 @@ Using publicly available data from NHS England (2016–2020), I cleaned, filtere
 ## The Data 📂  
 - NHS England’s National Cancer Survival Statistics 
 - Focused on colorectal cancer cases only
-- Survival rates segmented by deprivation quintiles (1 = most deprived, 5 = least deprived) and gender 
+- Survival rates segmented by deprivation quintiles (1 = most deprived, 5 = least deprived) and gender
+
+## Chart 📊 
+![5-year net survival for bowel cancer by deprivation and gender](bowel_cancer_deprivation_chart.png)
 
 ## Key Takeaways 💡  
 - Survival improves as deprivation decreases — meaning social factors can affect your chances of beating cancer
