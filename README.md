@@ -1,7 +1,7 @@
 # Colorectal Cancer Survival Analysis 🩺📊
 
 ## Why This Matters  
-Cancer survival isn’t just about biology — it’s deeply linked to where people live, their social conditions, and access to care. This project digs into how **socioeconomic status** impacts 5-year survival rates for colorectal (bowel) cancer in England. Spoiler: deprivation really matters.
+Cancer survival isn’t just about biology, it’s deeply linked to where people live, their social conditions, and access to care. This project digs into how **socioeconomic status** impacts 5-year survival rates for colorectal (bowel) cancer in England. Spoiler: deprivation really matters.
 
 ## What I Did 💻  
 Using publicly available data from NHS England (2016–2020), I cleaned, filtered, and visualized survival rates across deprivation groups — breaking it down by gender to uncover hidden inequalities. This project helped me sharpen my skills in data wrangling and storytelling through visuals. 🎨📊
