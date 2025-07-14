@@ -15,7 +15,7 @@ Using publicly available data from NHS England (2016–2020), I cleaned, filtere
 ![5-year net survival for bowel cancer by deprivation and gender](bowel_cancer_deprivation_chart.png)
 
 ## Key Takeaways 💡  
-- Survival improves as deprivation decreases — meaning social factors can affect your chances of beating cancer
+- Survival improves as deprivation decreases meaning social factors can affect your chances of beating cancer
 - Women tend to survive slightly better than men across all deprivation levels  
 - These insights highlight the urgent need for targeted public health strategies to reduce disparities
 
