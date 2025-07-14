@@ -25,4 +25,4 @@ Using publicly available data from NHS England (2016–2020), I cleaned, filtere
 - The Python notebook/Colab script with all the code, step-by-step 
 
 ## Why You Should Care 💬  
-Understanding these disparities is crucial if we want to create fairer health outcomes. Data isn’t just numbers — it tells stories, and this one demands action.
+Understanding these disparities is crucial if we want to create fairer health outcomes.
