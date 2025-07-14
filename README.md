@@ -33,6 +33,7 @@ Want to explore the code, try out the analysis, or tweak it for your own project
 Click below to open the notebook in Google Colab ⬇️
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eoG1Xnn2kn3C6r_F3Qn0IDwaBZTtR0jU?authuser=1)
 
-## 👩🏽‍💻 Author
+## 📎 Author
+
 **Casey Charles**  
-Biomedical Science Graduate | Aspiring Data Scientist
+Aspiring health data analyst | Biomedical Science BSc  
